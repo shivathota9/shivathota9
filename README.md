@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivathota9&label=Profile%20views&color=0e75b6&style=flat" alt="shivathota9" /> </p>
 
--  I’m currently learning **ReactJS**
+- I’m currently learning **ReactJS**
 
--  All of my projects are available at [https://github.com/shivathota9](https://github.com/shivathota9)
+- All of my projects are available at [https://github.com/shivathota9](https://github.com/shivathota9)
 
--  How to reach me **thotashiva9@gmail.com**
+- How to reach me **thotashiva9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
